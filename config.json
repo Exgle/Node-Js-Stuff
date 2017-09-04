@@ -1,0 +1,30 @@
+{
+    "TOKEN":"MzUyNTU0MjIzMDI5ODQ2MDE3.DI8N7A.6vvQFbqCXCm2g-mPr5u1y0DSoGQ",
+    "PREFIX":";",
+
+
+    "LOGS_SERVER":"352947893147009024",
+    "MAIN_SERVER":"322947580017377280",
+    "LOGS_CHANNELS" : {
+        "btlogs":"353380132540645376",
+        "mlogs":"353340601820905473",
+        "jlogs":"353337787799437322",
+        "blogs":"353309558158131201",
+        "klogs":"352949181960421379",
+        "vlogs":"352947893629616138",
+        "clogs":"352948836890705920",
+        "wlogs":"354339502438744067"
+    },
+    "MAIN_CHANNELS" : {
+        "general" : "322947580017377280",
+        "announcements" : "323568494950219787",
+        "staffcommands" : "352960465145430027"
+    },
+    "EMOJIS" : {
+        "Yes":"✅",
+        "No":"❌"
+    },
+    "ADMIN_RANKS":["duck","best friends"],
+    "MUTED_RANK":["Muted"],
+    "GAME_PRESENCE":";help"
+}
